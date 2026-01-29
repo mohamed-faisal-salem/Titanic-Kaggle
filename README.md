@@ -63,4 +63,4 @@ This result was achieved by focusing on **feature engineering and proper model v
 
 3. Run the notebook:
 ```bash
-jupyter notebook titanic.ipynb
+jupyter notebook titanic-top9%.ipynb
